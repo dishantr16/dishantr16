@@ -7,6 +7,10 @@
 
  <img src = "https://github-readme-stats.vercel.app/api?username=dishantr16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=radical">
 
+
+<!-- [![Top Langs]() -->
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dishantr16&layout=compact&theme=material-palenight">
+
  <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541"><img src="https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23F7DF1C&amp;color=%23FFCE5A" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++" data-canonical-src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/9763a6a5c2f3f0c0aa192b5b4f016d250dd028a6cefbee76d57b7b880289a451/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666666666"><img src="https://camo.githubusercontent.com/9763a6a5c2f3f0c0aa192b5b4f016d250dd028a6cefbee76d57b7b880289a451/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666666666666" alt="Python" data-canonical-src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=ffffff" style="max-width:100%;"></a>
@@ -67,11 +71,6 @@ Xcode                    0 secs              ░░░░░░░░░░░�
 Mac                      7 hrs 29 mins       █████████████████████████   100.0%
 
 ```
-
-
-
-<!-- [![Top Langs]() -->
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dishantr16&layout=compact&theme=material-palenight">
 
 
 
